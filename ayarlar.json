@@ -1,5 +1,5 @@
 {
   "prefix": "?",
   "sahip": "Göt",
-  "token": "Nah"
+  "token": "process.env.BOT_TOKEN"
 }
